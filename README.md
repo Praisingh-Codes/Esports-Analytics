@@ -93,7 +93,7 @@ All insights are included in the notebook only the essential visuals appear in t
 
 ✔ K-Means Team Segmentation
 
-Time Series Forecasting (2026–2030)
+-- Time Series Forecasting (2026–2030)
 
 ✔ ARIMA forecast for gaming revenue
 
