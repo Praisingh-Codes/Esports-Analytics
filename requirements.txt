@@ -1,0 +1,22 @@
+# Core Data Libraries
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Statistical Analysis
+scipy
+statsmodels
+
+# Notebook Support
+jupyter
+ipykernel
+
+# Utility & Formatting
+tqdm
+python-dateutil
