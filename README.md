@@ -8,7 +8,7 @@
 
 #### Architecture Diagram
 
-![Esports Analytics Architecture](https://raw.githubusercontent.com/Praisingh-Codes/Esports-Analytics/main/resources/esports_analytics_architecture_diagram.png)
+
 
 #### Key Visual Insights
 
